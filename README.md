@@ -38,3 +38,6 @@ For tinkerers, just do your stuff in a `toolbx` or `distrobox` container.
 ## Stats:
 ![Danche's GitHub stats](https://github-readme-stats.vercel.app/api?username=dch82&theme=transparent&show_icons=true)
 
+## Contact:
+* [E-Mail address 1](mailto:danche.choi@outlook.com)
+* [E-Mail address 2](mailto:danche.choi@gmail.com)
