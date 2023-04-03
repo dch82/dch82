@@ -24,6 +24,9 @@ So yeah, I was/am a distrohopper. Here are the distros I have used in chronologi
 * Vanilla OS (Really, Really good)
 * Blend OS (Less than 24 hours)
 * Fedora Silverblue (Yes, again!)
+* Elementary OS
+* Vanilla OS (Yet again)
+* Nix OS
 
 My best tip for most users is to use an immutable OS.
 If it breaks, just rollback!
