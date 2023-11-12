@@ -1,7 +1,6 @@
 # Hello! Let me introduce myself.
 
-I'm Danche Choi, and I am a student who happens to love tinkering with computers.
-I live in London, and I was a former Linux user.
+He/Him | I do tech things for fun. Check me out on macOSicons for icons, Medium for ramblings and FimFiction for pony stuff. Proud Brony. 🐴
 
 ## Distrohopping
 
