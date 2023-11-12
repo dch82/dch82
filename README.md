@@ -25,13 +25,11 @@ So yeah, I was a distrohopper. Here are the distros I have used in chronological
 * Fedora Silverblue (Yes, again!)
 * Elementary OS
 * Vanilla OS (Yet again)
-* Nix OS
+* NixOS
 * Windows 11
 * macOS (hackintosh)
 
-My best tip for most users is to use an immutable OS.
-If it breaks, just rollback!
-For tinkerers, just do your stuff in a `toolbx` or `distrobox` container.
+My tip? Don't bother distrohopping. Choose a stable OS with ***Anti-Idiot Measures™️*** (e.g. immutability, ability to reinstall without touching user data, a recovery partition, etc.) of your choice on your primary computer, and screw up a secondary computer or a container with ~~nuclear fallout~~ whatever you want.
 
 ## Programming Languages
 * Bash
