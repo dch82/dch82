@@ -1,13 +1,13 @@
 # Hello! Let me introduce myself.
 
 I'm Danche Choi, and I am a student who happens to love tinkering with computers.
-I live in London, and I love GNU/Linux.
+I live in London, and I was a former Linux user.
 
 ## Distrohopping
 
-So yeah, I was/am a distrohopper. Here are the distros I have used in chronological order:
+So yeah, I was a distrohopper. Here are the distros I have used in chronological order:
 * Ubuntu
-* M$ Windows 8/10 (Let's say that I didn't know how to install *nVidia* drivers on Ubuntu)
+* Windows 8/10 (Let's say that I didn't know how to install *nVidia* drivers on Ubuntu)
 * Ubuntu (again)
 * Kubuntu (I used to love KDE)
 * KDE Neon (I realised that there were newer versions of KDE plasma available)
@@ -27,6 +27,8 @@ So yeah, I was/am a distrohopper. Here are the distros I have used in chronologi
 * Elementary OS
 * Vanilla OS (Yet again)
 * Nix OS
+* Windows 11
+* macOS (hackintosh)
 
 My best tip for most users is to use an immutable OS.
 If it breaks, just rollback!
@@ -37,6 +39,8 @@ For tinkerers, just do your stuff in a `toolbx` or `distrobox` container.
 * A bit of Python
 * A bit of C
 * Some Scratch.
+* Bit of Haskell
+* Half an hour of lisp
 
 ## Stats:
 ![Danche's GitHub stats](https://github-readme-stats.vercel.app/api?username=dch82&theme=transparent&show_icons=true)
