@@ -12,7 +12,7 @@ So yeah, I was a distrohopper. Here are the distros I have used in chronological
 * KDE Neon (I realised that there were newer versions of KDE plasma available)
 * OpenSUSE Tumbleweed
 * Manjaro
-* Arch (I had to reinstall < 6 times)
+* Arch (I had to reinstall > 6 times)
 * Fedora Silverblue (I got in love with immutablity)
 * Arch (I did not know it was possible to layer packages on `rpm-ostree` based systems)
 * Parabola (This was when I hated "blobs")
